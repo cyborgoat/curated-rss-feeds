@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Arts &amp; Culture</title>
+  </head>
+  <body>
+    <outline type="rss" text="Le Monde – Culture" title="Le Monde – Culture" xmlUrl="https://www.lemonde.fr/culture/rss_full.xml" htmlUrl="https://www.lemonde.fr/culture/" />
+    <outline type="rss" text="The Guardian – Culture" title="The Guardian – Culture" xmlUrl="https://www.theguardian.com/culture/rss" htmlUrl="https://www.theguardian.com/culture" />
+  </body>
+</opml>

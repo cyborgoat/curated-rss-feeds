@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Gaming</title>
+  </head>
+  <body>
+    <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="https://www.eurogamer.net/feed" htmlUrl="https://www.eurogamer.net/" />
+    <outline type="rss" text="PC Gamer" title="PC Gamer" xmlUrl="https://www.pcgamer.com/rss/" htmlUrl="https://www.pcgamer.com/" />
+    <outline type="rss" text="Polygon" title="Polygon" xmlUrl="https://www.polygon.com/feed/" htmlUrl="https://www.polygon.com/" />
+    <outline type="rss" text="Rock Paper Shotgun" title="Rock Paper Shotgun" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com/" />
+  </body>
+</opml>

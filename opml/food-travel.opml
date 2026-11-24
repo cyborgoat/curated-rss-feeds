@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Food &amp; Travel</title>
+  </head>
+  <body>
+    <outline type="rss" text="Atlas Obscura" title="Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com/" />
+    <outline type="rss" text="Smitten Kitchen" title="Smitten Kitchen" xmlUrl="https://feeds.feedburner.com/smittenkitchen" htmlUrl="https://smittenkitchen.com/" />
+    <outline type="rss" text="The Guardian – Travel" title="The Guardian – Travel" xmlUrl="https://www.theguardian.com/travel/rss" htmlUrl="https://www.theguardian.com/travel" />
+  </body>
+</opml>

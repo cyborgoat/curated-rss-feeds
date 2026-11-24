@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Science</title>
+  </head>
+  <body>
+    <outline type="rss" text="NASA News" title="NASA News" xmlUrl="https://www.nasa.gov/feed/" htmlUrl="https://www.nasa.gov/news/" />
+    <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature/" />
+    <outline type="rss" text="ScienceDaily – Top Science" title="ScienceDaily – Top Science" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml" htmlUrl="https://www.sciencedaily.com/news/top/science/" />
+  </body>
+</opml>

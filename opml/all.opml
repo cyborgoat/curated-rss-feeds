@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="AI">
+      <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/" />
+      <outline type="rss" text="arXiv AI and Machine Learning" title="arXiv AI and Machine Learning" xmlUrl="https://rss.arxiv.org/rss/cs.AI+cs.LG+cs.CL+cs.CV+stat.ML" htmlUrl="https://arxiv.org/" />
+      <outline type="rss" text="Berkeley Artificial Intelligence Research" title="Berkeley Artificial Intelligence Research" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/" />
+      <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/innovation-and-ai/technology/ai/rss/" htmlUrl="https://blog.google/innovation-and-ai/technology/ai/" />
+      <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" />
+      <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/" />
+      <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" />
+      <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/" />
+      <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" />
+      <outline type="rss" text="MIT News – Artificial Intelligence" title="MIT News – Artificial Intelligence" xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" htmlUrl="https://news.mit.edu/topic/artificial-intelligence2" />
+      <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/" />
+      <outline type="rss" text="Simon Willison’s Weblog" title="Simon Willison’s Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/" />
+    </outline>
+    <outline text="Arts &amp; Culture">
+      <outline type="rss" text="Le Monde – Culture" title="Le Monde – Culture" xmlUrl="https://www.lemonde.fr/culture/rss_full.xml" htmlUrl="https://www.lemonde.fr/culture/" />
+      <outline type="rss" text="The Guardian – Culture" title="The Guardian – Culture" xmlUrl="https://www.theguardian.com/culture/rss" htmlUrl="https://www.theguardian.com/culture" />
+    </outline>
+    <outline text="Business">
+      <outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="https://www.bbc.com/news/business" />
+      <outline type="rss" text="Business Insider" title="Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" htmlUrl="https://www.businessinsider.com/" />
+      <outline type="rss" text="Financial Times – Companies" title="Financial Times – Companies" xmlUrl="https://www.ft.com/companies?format=rss" htmlUrl="https://www.ft.com/companies" />
+      <outline type="rss" text="Fortune" title="Fortune" xmlUrl="https://fortune.com/feed/" htmlUrl="https://fortune.com/" />
+      <outline type="rss" text="WSJ US Business" title="WSJ US Business" xmlUrl="https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness" htmlUrl="https://www.wsj.com/business" />
+    </outline>
+    <outline text="Education">
+      <outline type="rss" text="BBC Education" title="BBC Education" xmlUrl="https://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.com/news/education" />
+      <outline type="rss" text="The Guardian – Education" title="The Guardian – Education" xmlUrl="https://www.theguardian.com/education/rss" htmlUrl="https://www.theguardian.com/education" />
+      <outline type="rss" text="The Hechinger Report" title="The Hechinger Report" xmlUrl="https://hechingerreport.org/feed/" htmlUrl="https://hechingerreport.org/" />
+    </outline>
+    <outline text="Environment">
+      <outline type="rss" text="Carbon Brief" title="Carbon Brief" xmlUrl="https://www.carbonbrief.org/feed" htmlUrl="https://www.carbonbrief.org/" />
+      <outline type="rss" text="Grist" title="Grist" xmlUrl="https://grist.org/feed/" htmlUrl="https://grist.org/" />
+      <outline type="rss" text="The Guardian – Environment" title="The Guardian – Environment" xmlUrl="https://www.theguardian.com/environment/rss" htmlUrl="https://www.theguardian.com/environment" />
+    </outline>
+    <outline text="Finance">
+      <outline type="rss" text="Bloomberg Economics" title="Bloomberg Economics" xmlUrl="https://www.bloomberg.com/feeds/economics/news.rss" htmlUrl="https://www.bloomberg.com/economics" />
+      <outline type="rss" text="Bloomberg Markets" title="Bloomberg Markets" xmlUrl="https://www.bloomberg.com/feeds/markets/news.rss" htmlUrl="https://www.bloomberg.com/markets" />
+      <outline type="rss" text="European Central Bank Publications" title="European Central Bank Publications" xmlUrl="https://www.ecb.europa.eu/rss/pub.html" htmlUrl="https://www.ecb.europa.eu/pub/html/index.en.html" />
+      <outline type="rss" text="Federal Reserve Monetary Policy" title="Federal Reserve Monetary Policy" xmlUrl="https://www.federalreserve.gov/feeds/press_monetary.xml" htmlUrl="https://www.federalreserve.gov/monetarypolicy.htm" />
+      <outline type="rss" text="The Guardian – Economics" title="The Guardian – Economics" xmlUrl="https://www.theguardian.com/business/economics/rss" htmlUrl="https://www.theguardian.com/business/economics" />
+      <outline type="rss" text="WSJ Markets" title="WSJ Markets" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSMarketsMain" htmlUrl="https://www.wsj.com/markets" />
+    </outline>
+    <outline text="Food &amp; Travel">
+      <outline type="rss" text="Atlas Obscura" title="Atlas Obscura" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com/" />
+      <outline type="rss" text="Smitten Kitchen" title="Smitten Kitchen" xmlUrl="https://feeds.feedburner.com/smittenkitchen" htmlUrl="https://smittenkitchen.com/" />
+      <outline type="rss" text="The Guardian – Travel" title="The Guardian – Travel" xmlUrl="https://www.theguardian.com/travel/rss" htmlUrl="https://www.theguardian.com/travel" />
+    </outline>
+    <outline text="Gaming">
+      <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="https://www.eurogamer.net/feed" htmlUrl="https://www.eurogamer.net/" />
+      <outline type="rss" text="PC Gamer" title="PC Gamer" xmlUrl="https://www.pcgamer.com/rss/" htmlUrl="https://www.pcgamer.com/" />
+      <outline type="rss" text="Polygon" title="Polygon" xmlUrl="https://www.polygon.com/feed/" htmlUrl="https://www.polygon.com/" />
+      <outline type="rss" text="Rock Paper Shotgun" title="Rock Paper Shotgun" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com/" />
+    </outline>
+    <outline text="General News">
+      <outline type="rss" text="BBC News – Top Stories" title="BBC News – Top Stories" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.com/news" />
+      <outline type="rss" text="Le Monde – À la une" title="Le Monde – À la une" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/" />
+      <outline type="rss" text="NPR News" title="NPR News" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/sections/news/" />
+    </outline>
+    <outline text="Health">
+      <outline type="rss" text="BBC Health" title="BBC Health" xmlUrl="https://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.com/news/health" />
+      <outline type="rss" text="The Guardian – Health" title="The Guardian – Health" xmlUrl="https://www.theguardian.com/society/health/rss" htmlUrl="https://www.theguardian.com/society/health" />
+      <outline type="rss" text="World Health Organization – News" title="World Health Organization – News" xmlUrl="https://www.who.int/rss-feeds/news-english.xml" htmlUrl="https://www.who.int/news" />
+    </outline>
+    <outline text="Politics">
+      <outline type="rss" text="Al Jazeera English" title="Al Jazeera English" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" />
+      <outline type="rss" text="BBC World News" title="BBC World News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news/world" />
+      <outline type="rss" text="Bloomberg Politics" title="Bloomberg Politics" xmlUrl="https://www.bloomberg.com/feeds/politics/news.rss" htmlUrl="https://www.bloomberg.com/politics" />
+      <outline type="rss" text="Deutsche Welle World" title="Deutsche Welle World" xmlUrl="https://rss.dw.com/rdf/rss-en-world" htmlUrl="https://www.dw.com/en/top-stories/s-9097" />
+      <outline type="rss" text="WSJ World News" title="WSJ World News" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSWorldNews" htmlUrl="https://www.wsj.com/world" />
+    </outline>
+    <outline text="Science">
+      <outline type="rss" text="NASA News" title="NASA News" xmlUrl="https://www.nasa.gov/feed/" htmlUrl="https://www.nasa.gov/news/" />
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature/" />
+      <outline type="rss" text="ScienceDaily – Top Science" title="ScienceDaily – Top Science" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml" htmlUrl="https://www.sciencedaily.com/news/top/science/" />
+    </outline>
+    <outline text="Sports">
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" htmlUrl="https://www.bbc.com/sport" />
+      <outline type="rss" text="ESPN Top Headlines" title="ESPN Top Headlines" xmlUrl="https://www.espn.com/espn/rss/news" htmlUrl="https://www.espn.com/" />
+      <outline type="rss" text="The Guardian – Sport" title="The Guardian – Sport" xmlUrl="https://www.theguardian.com/sport/rss" htmlUrl="https://www.theguardian.com/sport" />
+    </outline>
+    <outline text="Technology">
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" />
+      <outline type="rss" text="BBC Technology" title="BBC Technology" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.com/news/technology" />
+      <outline type="rss" text="Bloomberg Technology" title="Bloomberg Technology" xmlUrl="https://www.bloomberg.com/feeds/technology/news.rss" htmlUrl="https://www.bloomberg.com/technology" />
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" />
+      <outline type="rss" text="WSJ Technology" title="WSJ Technology" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSWSJD" htmlUrl="https://www.wsj.com/tech" />
+    </outline>
+  </body>
+</opml>

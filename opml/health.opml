@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Health</title>
+  </head>
+  <body>
+    <outline type="rss" text="BBC Health" title="BBC Health" xmlUrl="https://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.com/news/health" />
+    <outline type="rss" text="The Guardian – Health" title="The Guardian – Health" xmlUrl="https://www.theguardian.com/society/health/rss" htmlUrl="https://www.theguardian.com/society/health" />
+    <outline type="rss" text="World Health Organization – News" title="World Health Organization – News" xmlUrl="https://www.who.int/rss-feeds/news-english.xml" htmlUrl="https://www.who.int/news" />
+  </body>
+</opml>

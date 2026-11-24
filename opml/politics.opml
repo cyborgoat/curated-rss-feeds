@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Politics</title>
+  </head>
+  <body>
+    <outline type="rss" text="Al Jazeera English" title="Al Jazeera English" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" />
+    <outline type="rss" text="BBC World News" title="BBC World News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news/world" />
+    <outline type="rss" text="Bloomberg Politics" title="Bloomberg Politics" xmlUrl="https://www.bloomberg.com/feeds/politics/news.rss" htmlUrl="https://www.bloomberg.com/politics" />
+    <outline type="rss" text="Deutsche Welle World" title="Deutsche Welle World" xmlUrl="https://rss.dw.com/rdf/rss-en-world" htmlUrl="https://www.dw.com/en/top-stories/s-9097" />
+    <outline type="rss" text="WSJ World News" title="WSJ World News" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSWorldNews" htmlUrl="https://www.wsj.com/world" />
+  </body>
+</opml>

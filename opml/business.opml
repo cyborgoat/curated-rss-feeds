@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Business</title>
+  </head>
+  <body>
+    <outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="https://www.bbc.com/news/business" />
+    <outline type="rss" text="Business Insider" title="Business Insider" xmlUrl="https://feeds.businessinsider.com/custom/all" htmlUrl="https://www.businessinsider.com/" />
+    <outline type="rss" text="Financial Times – Companies" title="Financial Times – Companies" xmlUrl="https://www.ft.com/companies?format=rss" htmlUrl="https://www.ft.com/companies" />
+    <outline type="rss" text="Fortune" title="Fortune" xmlUrl="https://fortune.com/feed/" htmlUrl="https://fortune.com/" />
+    <outline type="rss" text="WSJ US Business" title="WSJ US Business" xmlUrl="https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness" htmlUrl="https://www.wsj.com/business" />
+  </body>
+</opml>

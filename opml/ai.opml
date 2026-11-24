@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — AI</title>
+  </head>
+  <body>
+    <outline type="rss" text="Ahead of AI" title="Ahead of AI" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/" />
+    <outline type="rss" text="arXiv AI and Machine Learning" title="arXiv AI and Machine Learning" xmlUrl="https://rss.arxiv.org/rss/cs.AI+cs.LG+cs.CL+cs.CV+stat.ML" htmlUrl="https://arxiv.org/" />
+    <outline type="rss" text="Berkeley Artificial Intelligence Research" title="Berkeley Artificial Intelligence Research" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/" />
+    <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/innovation-and-ai/technology/ai/rss/" htmlUrl="https://blog.google/innovation-and-ai/technology/ai/" />
+    <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" />
+    <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/" />
+    <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" />
+    <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/" />
+    <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/" />
+    <outline type="rss" text="MIT News – Artificial Intelligence" title="MIT News – Artificial Intelligence" xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" htmlUrl="https://news.mit.edu/topic/artificial-intelligence2" />
+    <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/" />
+    <outline type="rss" text="Simon Willison’s Weblog" title="Simon Willison’s Weblog" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/" />
+  </body>
+</opml>

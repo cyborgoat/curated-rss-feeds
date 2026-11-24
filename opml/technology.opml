@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Technology</title>
+  </head>
+  <body>
+    <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" />
+    <outline type="rss" text="BBC Technology" title="BBC Technology" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.com/news/technology" />
+    <outline type="rss" text="Bloomberg Technology" title="Bloomberg Technology" xmlUrl="https://www.bloomberg.com/feeds/technology/news.rss" htmlUrl="https://www.bloomberg.com/technology" />
+    <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" />
+    <outline type="rss" text="WSJ Technology" title="WSJ Technology" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSWSJD" htmlUrl="https://www.wsj.com/tech" />
+  </body>
+</opml>

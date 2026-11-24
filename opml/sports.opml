@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Sports</title>
+  </head>
+  <body>
+    <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" htmlUrl="https://www.bbc.com/sport" />
+    <outline type="rss" text="ESPN Top Headlines" title="ESPN Top Headlines" xmlUrl="https://www.espn.com/espn/rss/news" htmlUrl="https://www.espn.com/" />
+    <outline type="rss" text="The Guardian – Sport" title="The Guardian – Sport" xmlUrl="https://www.theguardian.com/sport/rss" htmlUrl="https://www.theguardian.com/sport" />
+  </body>
+</opml>

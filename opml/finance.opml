@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Finance</title>
+  </head>
+  <body>
+    <outline type="rss" text="Bloomberg Economics" title="Bloomberg Economics" xmlUrl="https://www.bloomberg.com/feeds/economics/news.rss" htmlUrl="https://www.bloomberg.com/economics" />
+    <outline type="rss" text="Bloomberg Markets" title="Bloomberg Markets" xmlUrl="https://www.bloomberg.com/feeds/markets/news.rss" htmlUrl="https://www.bloomberg.com/markets" />
+    <outline type="rss" text="European Central Bank Publications" title="European Central Bank Publications" xmlUrl="https://www.ecb.europa.eu/rss/pub.html" htmlUrl="https://www.ecb.europa.eu/pub/html/index.en.html" />
+    <outline type="rss" text="Federal Reserve Monetary Policy" title="Federal Reserve Monetary Policy" xmlUrl="https://www.federalreserve.gov/feeds/press_monetary.xml" htmlUrl="https://www.federalreserve.gov/monetarypolicy.htm" />
+    <outline type="rss" text="The Guardian – Economics" title="The Guardian – Economics" xmlUrl="https://www.theguardian.com/business/economics/rss" htmlUrl="https://www.theguardian.com/business/economics" />
+    <outline type="rss" text="WSJ Markets" title="WSJ Markets" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSMarketsMain" htmlUrl="https://www.wsj.com/markets" />
+  </body>
+</opml>

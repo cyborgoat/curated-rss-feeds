@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Education</title>
+  </head>
+  <body>
+    <outline type="rss" text="BBC Education" title="BBC Education" xmlUrl="https://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.com/news/education" />
+    <outline type="rss" text="The Guardian – Education" title="The Guardian – Education" xmlUrl="https://www.theguardian.com/education/rss" htmlUrl="https://www.theguardian.com/education" />
+    <outline type="rss" text="The Hechinger Report" title="The Hechinger Report" xmlUrl="https://hechingerreport.org/feed/" htmlUrl="https://hechingerreport.org/" />
+  </body>
+</opml>

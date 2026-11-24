@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — Environment</title>
+  </head>
+  <body>
+    <outline type="rss" text="Carbon Brief" title="Carbon Brief" xmlUrl="https://www.carbonbrief.org/feed" htmlUrl="https://www.carbonbrief.org/" />
+    <outline type="rss" text="Grist" title="Grist" xmlUrl="https://grist.org/feed/" htmlUrl="https://grist.org/" />
+    <outline type="rss" text="The Guardian – Environment" title="The Guardian – Environment" xmlUrl="https://www.theguardian.com/environment/rss" htmlUrl="https://www.theguardian.com/environment" />
+  </body>
+</opml>

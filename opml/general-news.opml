@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Curated RSS Feeds — General News</title>
+  </head>
+  <body>
+    <outline type="rss" text="BBC News – Top Stories" title="BBC News – Top Stories" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.com/news" />
+    <outline type="rss" text="Le Monde – À la une" title="Le Monde – À la une" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/" />
+    <outline type="rss" text="NPR News" title="NPR News" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/sections/news/" />
+  </body>
+</opml>
